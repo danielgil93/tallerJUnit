@@ -7,7 +7,7 @@ import org.junit.runners.MethodSorters;
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class CarritoCompraServiceTest {
 	
-	//CarritoCompraService service;
+	CarritoCompraService service;
 	static CarritoCompraService service_;
 	
 	@BeforeClass
